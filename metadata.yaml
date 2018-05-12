@@ -1,0 +1,27 @@
+_repo: La-piraterie-dans-l-antiquit-_18849
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sestier, Jules M.
+    gutenberg_agent_id: '8295'
+    url: http://www.gutenberg.org/2009/agents/8295
+description: ''
+gutenberg_bookshelf:
+- Pirates, Buccaneers, Corsairs, etc.
+- FR Histoire
+gutenberg_issued: '2006-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18849'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates'
+- !lcc 'DE'
+title: La piraterie dans l'antiquité
+url: http://www.gutenberg.org/ebooks/18849
