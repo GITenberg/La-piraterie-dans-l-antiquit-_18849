@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8295'
     url: http://www.gutenberg.org/2009/agents/8295
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18849#La-piraterie-dans-l-antiquit-
 gutenberg_bookshelf:
 - Pirates, Buccaneers, Corsairs, etc.
 - FR Histoire
