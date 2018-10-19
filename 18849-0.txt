@@ -1,4 +1,4 @@
-﻿Project Gutenberg's La piraterie dans l'antiquité, by Jules-M. Sestier
+Project Gutenberg's La piraterie dans l'antiquité, by Jules-M. Sestier
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -11,6 +11,7 @@ Title: La piraterie dans l'antiquité
 Author: Jules-M. Sestier
 
 Release Date: July 17, 2006 [EBook #18849]
+[Last updated: December 5, 2014]
 
 Language: French
 
@@ -58,97 +59,96 @@ LIBRAIRIE DE A. MARESCQ AÎNÉ, ÉDITEUR
 
 TABLE DES MATIÈRES
 
+                                                               Pages.
+  INTRODUCTION
 
-INTRODUCTION                                          Page
+  CHAP. Ier.--    i. Considérations générales sur la piraterie
+                     dans l'antiquité.--Civilisation primitive.
+                     --Origine de la navigation.                   1
 
-CHAP. Ier.--i. Considérations générales sur la
-        piraterie   dans l'antiquité.--Civilisation
-        primitive.--Origine de la navigation.            1
+                 ii. État social primitif.--Les enlèvements
+                     et le mariage.                               10
 
-  ii. État social primitif.--Les enlèvements
-        et le mariage.                                  10
+  --II.--         i. La légende de Bacchus.                       17
 
---II.--i. La légende de Bacchus.                        17
+                 ii. Les Argonautes.                              21
 
-      ii. Les Argonautes.                               21
+                iii. Les héros d'Homère.                          25
 
-     iii. Les héros d'Homère.                           25
+  --III.--           Les Cariens et les Phéniciens.               29
 
---III.--Les Cariens et les Phéniciens.                  29
+  --IV.--            Première répression de la piraterie.
+                     L'île de Crète.--Minos.--Rhodes.             41
 
---IV.--Première répression de la piraterie.
-         L'île de   Crète.--Minos.--Rhodes.             41
+  --V.--             Les pirates grecs.                           47
 
---V.--Les pirates grecs.                                47
+  --VI.--            L'île de Samos.--Le tyran Polycrate.--Le
+                     marchand Colæos.                             53
 
---VI.--L'Île de Samos.--Le tyran Polycrate.--Le
-         marchand Colæos.                               53
+  --VII.--           La piraterie grecque.--Salamine.--Égine.     63
 
---VII.--La piraterie grecque.--Salamine.--Égine.        63
+  --VIII.--          Le monde oriental à l'époque des guerres
+                     médiques.                                    79
 
---VIII.--Le monde oriental à l'époque des guerres
-           médiques.                                    79
+  --IX.--            La Grèce après les guerres médiques.         99
 
---IX.--La Grèce après les guerres médiques.             99
+  --X.--          i. De l'empire de la mer exercé par
+                     Athènes.                                    107
 
---X.--i. De l'empire de la mer exercé par
-           Athènes.                                    107
+                 ii. Organisation de la marine athénienne.       111
 
-     ii. Organisation de la marine athénienne.         111
+  --XI.--            La piraterie à l'époque de Philippe II et
+                     d'Alexandre le Grand.                       115
 
---XI.--La piraterie à l'époque de Philippe II et
-         d'Alexandre le Grand.                         115
+  --XII.--           Les Carthaginois.--Traités d'alliance avec
+                     les Romains.--La Sicile.--Les Mamertins.    121
 
---XII.--Les Carthaginois.--Traités d'alliance avec
-          les Romains.--La Sicile.--Les Mamertins.     121
+  --XIII.--          Les Étrusques.--Les Ligures.                133
 
---XIII.--Les Étrusques.--Les Ligures.                  133
+  --XIV.--           Rome et la piraterie.                       141
 
---XIV.--Rome et la piraterie.                          141
+  --XV.--            Guerres de Rome contre la piraterie.
+                     --L'Illyrie. La reine Teuta.--Démétrius de
+                     Pharos.--Genthius.                          153
 
---XV.--Guerres de Rome contre la piraterie.--L'Illyrie.
-         La reine Teuta.--Démétrius de
-         Pharos.--Genthius.                            153
+  --XVI.--        i. Les Étoliens et les Klephtes.               165
 
---XVI. i--Les Étoliens et les Klephtes.                165
+                 ii. Conquête des îles Baléares.                 170
 
-      ii. Conquête des îles Baléares.                  170
+  --XVII.--          Mithridate et les pirates.                  173
 
---XVII.--Mithridate et les pirates.                    173
+  --XVIII.--         Puissance des pirates.--Captivité de
+                     César.                                      181
 
---XVIII.--Puissance des pirates.--Captivité
-            de César.                                  181
+  --XIX.--           Expédition de Publius Servilius
+                     _Isauricus_ contre les pirates.             189
 
---XIX.--Expédition de Publius Servilius _Isauricus_
-          contre les pirates.                          189
+  --XX.--            Les pirates crétois.--Expéditions
+                     d'Antonius et de Métellus.                  193
 
---XX.--Les pirates crétois.--Expéditions d'Antonius
-         et de Métellus.                               193
+  --XXI.--           Exploits des pirates.--Leur luxe et leur
+                     insolence.                                  201
 
---XXI.--Exploits des pirates.--Leur luxe et leur
-          insolence.                                   207
+  --XXII.--          La loi _Gabinia_.--Pompée.--La Cilicie.     207
 
---XXII.--La loi _Gabinia_.--Pompée.--La Cilicie.       201
+  --XXIII.--         Conquête de l'île de Cypre et de l'Égypte.  217
 
---XXIII.--Conquête de l'île de Cypre et de
-            l'Égypte.                                  217
+  --XXIV.--          Sextus Pompée et la piraterie.--Auguste.    221
 
---XXIV.--Sextus Pompée et la piraterie.--Auguste.      221
+  --XXV.--           La piraterie sous l'empire romain.          249
 
---XXV.--La piraterie sous l'empire romain.             249
+  --XXVI.--          La piraterie et les invasions des
+                     Barbares.                                   265
 
---XXVI.--La piraterie et les invasions des
-           Barbares.                                   265
+  --XXVII.--         La piraterie et la législation maritime
+                     dans l'antiquité.                           275
 
---XXVII.--La piraterie et la législation maritime
-            dans l'antiquité.                          275
+  --XXVIII.--        La piraterie et la traite des esclaves.     289
 
---XXVIII.--La piraterie et la traite des esclaves.     289
+  --XXIX.--          La piraterie et la littérature.--Le
+                     théâtre et les écoles de déclamation.       295
 
---XXIX.--La piraterie et la littérature.--Le théâtre
-           et les écoles de déclamation.               295
-
-Table Alphabétique.                                    309
+  Table alphabétique                                             309
 
 
 
@@ -186,7 +186,7 @@ nous fourniront la preuve que la piraterie fit son apparition sur la
 Méditerranée avec les premiers navigateurs. L'histoire confirmera ce
 fait, car c'est par des récits d'enlèvements, de violences, de pillage,
 que les plus grands écrivains de l'antiquité ont commencé leurs
-oeuvres._
+œuvres._
 
 _Tous les peuples des côtes de la Méditerranée ont pratiqué la piraterie
 au début de leur histoire, soit d'une manière générale dans leurs
@@ -356,7 +356,7 @@ distinctes, vivant selon leurs usages propres. Il est impossible d'y
 rencontrer cette unité imposante enseignée par Bossuet. Aujourd'hui, les
 découvertes archéologiques, la philologie comparée, la connaissance des
 langues orientales nous ouvrent une voie immense pour arriver au vrai;
-_le Discours sur l'histoire universelle_ est resté une oeuvre d'art
+_le Discours sur l'histoire universelle_ est resté une œuvre d'art
 magnifique et d'une grande conception, mais il a perdu sa valeur
 historique. Ces mêmes sciences ont renversé également la thèse de J.-J.
 Rousseau soutenant que l'homme, dès le principe, était né libre et
@@ -447,7 +447,7 @@ d'anciennes pirogues, remontant à l'époque préhistorique. Ces anciens
 canots étaient formés d'un seul tronc de chêne, creusé en forme d'auge,
 avec des instruments en pierre aidés par l'action du feu[2]. Les
 dimensions d'une de ces pirogues étaient de 2 mètres de longueur
-sur 0.45 m. de largeur.
+sur 0m45 de largeur.
 
     [1] _Histoire de la marine de tous les peuples_.
 
@@ -472,7 +472,7 @@ Maury[3], s'est ingénié à perfectionner son esquif: il imagina de copier
 jusqu'à un certain point le cygne, dont les pattes sont de véritables
 avirons, et les ailes des voiles à demi ouvertes au vent.» Mais chaque
 peuple navigateur s'est fait une tradition locale, poétique et
-légendaire. Les poètes et les historiens ont consigné dans leurs oeuvres
+légendaire. Les poètes et les historiens ont consigné dans leurs œuvres
 un grand nombre de ces traditions. D'après Ethicus Hister, la Lydie vit
 naître les premiers inventeurs des vaisseaux; Tibulle et Pomponius Méla
 attribuent cette invention à Tyr, et Dionysius Punicus aux Égyptiens;
@@ -492,8 +492,6 @@ font honneur à Dédale, Pline à Icare, et Diodore à Éole.
     [2] _Mission de Santorin_.
 
     [3] _La Terre et l'Homme_.
-
-
 
 
 II
@@ -641,7 +639,7 @@ L'exploit de piraterie peut-être le plus ancien est celui qui est
 consigné dans la légende de Dionysos (Bacchus). L'enfance, l'éducation
 et l'existence habituelle de Dionysos forment le sujet d'un cycle
 immense de légendes, de descriptions poétiques et de représentations
-figurées. Dans toutes ces oeuvres, Dionysos figure comme un grand
+figurées. Dans toutes ces œuvres, Dionysos figure comme un grand
 conquérant, comme un voyageur infatigable, promenant ses orgies et son
 cortège par toute la Grèce et l'Asie-Mineure. L'intervention de ce dieu
 dans la guerre des Géants est plusieurs fois représentée sur les vases
@@ -651,7 +649,7 @@ béotiennes[2] racontaient que Bacchus avait vaincu Triton qui enlevait
 des troupeaux sur les côtes, et ce Triton ne devait être qu'un pirate
 puissant.
 
-    [1] Gerhard, _Auserl-Vas_.
+    [1] Gerhard, _Auserl-Vas._
 
     [2] Pausanias, IX, 20, 4;--Athénée VII, p. 296.
 
@@ -717,17 +715,15 @@ peuples se sont plu à se figurer l'intervention des dieux.
     [3] _Gaz. arch._, 1875. pl. II.--_Dict. des antiq. grecq.
     et rom._, p. 611.
 
-    [4] Gerhard, _Auserl-Vas_.
+    [4] Gerhard, _Auserl-Vas._
 
     [5] Icon. I, 19.
 
-    [6] Toelken, _Verzeichniss_, t. I, 2, nº 1082;--Gaz.
+    [6] Tœlken, _Verzeichniss_, III, 2, nº 1082;--Gaz.
     arch., 1875, p. 13.
 
     [7] Senec., _Agam._ 449.--Stat, _Achill._ I, 56.--Valér.
     Flacc. _Argon._, I, 131.
-
-
 
 
 II
@@ -737,9 +733,9 @@ LES ARGONAUTES.
 
 L'expédition des Argonautes est à moitié vraie et à moitié fabuleuse.
 Elle eut peut-être un plus grand retentissement que le siège et la prise
-de Troie, quoiqu'elle fut antérieure à ces grands événements. Homère[1]
+de Troie, quoiqu'elle fût antérieure à ces grands événements. Homère[1]
 dit en parlant du navire que montait Jason: «_Argo_ présent au souvenir
-de tous.» Un grand nombre de poètes anciens dont les oeuvres ne nous
+de tous.» Un grand nombre de poètes anciens dont les œuvres ne nous
 sont pas parvenues ont pris la tradition argonautique pour sujet de
 leurs chants[2]. Elle peut, sous sa forme la plus complète se diviser en
 cinq parties: 1º l'histoire de la toison d'or; 2º l'occasion et le
@@ -807,7 +803,7 @@ l'imagination et ramène prosaïquement les aventuriers par la même route
 qu'ils avaient suivie pour se rendre en Colchide, c'est-à-dire par le
 Bosphore et la Propontide.
 
-Outre les oeuvres des écrivains cités, les monuments nous offrent des
+Outre les œuvres des écrivains cités, les monuments nous offrent des
 représentations qui ressemblent fort à des scènes de pirateries dont les
 Argonautes sont les acteurs. Un ouvrage célèbre, le ciste de Ficoroni,
 nous montre Pollux attachant le géant Amycos à un tronc d'arbre pendant
@@ -819,8 +815,6 @@ plus remarquables que l'antiquité nous ait léguées[2].
 
     [2] _Arch. Zeit._, 1846, p. XLIV; 1848, p.
     XXIV;--Denkm-und Forsch., 1860, pl. CXXXIX, CXL.
-
-
 
 
 III
@@ -942,12 +936,12 @@ rassemblé une armée et une flotte nombreuse dans le dessein de conquérir
 l'Ibérie, où régnait Khrysaor, fils de Géryon. Il aurait soumis, chemin
 faisant, l'Afrique où il introduisit l'agriculture et fonda la ville
 fabuleuse d'Hécatompyles, franchi le détroit auquel il donna son nom,
-bâti Gadès et vaincu l'Espagne. Après avoir enlevé les boeufs mythiques
+bâti Gadès et vaincu l'Espagne. Après avoir enlevé les bœufs mythiques
 de Géryon, il serait revenu en Asie par la Gaule, l'Italie, la Sardaigne
 et la Sicile. A cette tradition d'ensemble qui résume assez bien les
 principaux traits de la colonisation phénicienne, venaient se joindre
 mille légendes locales. C'était Kynras à Chypre et à Mélos; Europe
-enlevée par Zeus; Cadmos, envoyé à la recherche de sa soeur, visitant
+enlevée par Zeus; Cadmos, envoyé à la recherche de sa sœur, visitant
 Chypre, Rhodes, les Cyclades, bâtissant la Thèbes de Béotie, et allant
 mourir en Illyrie. Partout où les Phéniciens étaient passés, la grandeur
 et l'audace de leurs entreprises avaient laissé dans l'imagination des
@@ -1061,7 +1055,7 @@ tirer de l'écriture _hiératique_ égyptienne, abréviation cursive des
 signes _hiéroglyphiques_, les éléments de leur alphabet. Sur les
 vingt-deux lettres dont se compose l'alphabet phénicien, M. de Rougé
 montra que quinze ou seize sont assez peu altérées pour qu'on
-reconnaisse leur prototype égyptien du premier coup d'oeil, et que les
+reconnaisse leur prototype égyptien du premier coup d'œil, et que les
 autres peuvent se ramener au type hiératique sans blesser les lois de la
 vraisemblance. La démonstration savante de M. de Rougé, reproduite en
 Allemagne par MM. Lauth Brugsch et Ebers, a été considérée comme
@@ -1167,7 +1161,7 @@ caractère odieux, c'était un métier comme un autre.
 
 CHAPITRE IV
 
-PREMIÈRE RÉPRESSION DE LA PIRATERIE.--L'ÎLE DE CRÈTE.--MINOS.--RHODES.
+PREMIÈRE RÉPRESSION DE LA PIRATERIE.--L'ILE DE CRÈTE.--MINOS.--RHODES.
 
 
 Si les Phéniciens furent les premiers pirates, ils furent aussi les
@@ -1216,7 +1210,7 @@ sa patrie de ce tribut odieux[3].
     [2] Thucydide, I, 4; Hérodote, III, 22; Louis Lacroix,
     _Les îles de la Grèce_ (Crète).
 
-    [3] Plutarque, _Vie de Thésée._
+    [3] Plutarque, _Vie de Thésée_.
 
 Pour prévenir le retour des désordres occasionnés par les pirates, Minos
 proposa aux Grecs un Code maritime qui reçut la sanction générale.
@@ -1238,7 +1232,7 @@ rassembler sur une faible embarcation, chargée de denrées et de
 marchandises, des armes et des engins de guerre pour repousser les
 attaques des forbans qui infestaient les eaux voisines du rivage. Les
 marchands ne connaissaient alors qu'un seul moyen de défense que Cicéron
-appelle όμοπλοία[1]. C'est ce que nous désignons sous le nom
+appelle «όμοπλοία[1]». C'est ce que nous désignons sous le nom
 de «voyages de conserve», quand plusieurs navires se réunissent pour
 voyager ensemble et s'assurer mutuellement contre les périls communs de
 la navigation. Pour se mettre à l'abri des écumeurs de mer, les
@@ -1279,7 +1273,7 @@ jusqu'au pied des Pyrénées[5].
 
 CHAPITRE V
 
-Les Pirates Grecs.
+LES PIRATES GRECS.
 
 
 «Les premiers Grecs, dit Montesquieu[1], étaient tous pirates.» Rien
@@ -1319,7 +1313,7 @@ et de là tiraient presque tout ce qui était nécessaire à la vie. Cette
 profession, loin d'avilir, conduisait plutôt à la gloire. C'est ce dont
 nous offrent encore aujourd'hui la preuve et des peuples continentaux
 chez qui c'est un honneur de l'exercer, en se conformant à certaines
-lois, et les anciens poètes, qui, dans leurs oeuvres, font demander aux
+lois, et les anciens poètes, qui, dans leurs œuvres, font demander aux
 navigateurs qui se rencontrent s'ils ne sont pas des pirates; ce qui
 suppose que ceux qu'on interroge ne désavouent pas leur profession, et
 que ceux qui questionnent ne prétendent pas insulter. Même par terre, on
@@ -1485,7 +1479,7 @@ l'Égyptien de vieille race un être impur à côté duquel on ne pouvait
 vivre sans se souiller. Hérodote dit que pas un homme, pas une femme
 d'Égypte ne voudraient baiser un Grec sur la bouche, ni faire usage de
 son couteau, de ses broches, de sa marmite, ni manger de la chair d'un
-boeuf pur découpé avec le couteau d'un Grec[9].
+bœuf pur découpé avec le couteau d'un Grec[9].
 
     [1] Hérodote, II, 26.
 
@@ -1596,7 +1590,7 @@ travers le détroit de Gadès. Hérodote, en racontant ce fait, ajoute avec
 intention que Colæos fut conduit par une main divine. Il aborda (en 642
 ou 641 avant J.-C.) à Tartessus, la Tarsis des Phéniciens et des
 prophètes hébreux, et révéla à ses compatriotes la splendeur de ce grand
-établissement tyrien, situé en Ibérie, à l'embouchure du fleuve Boetis
+établissement tyrien, situé en Ibérie, à l'embouchure du fleuve Bœtis
 (le Guadalquivir). Les profits de Colæos, au retour de ce voyage
 aventureux, furent si considérables que la dîme de son gain s'élevant à
 six talents (à peu près 32,400 fr.), il fit fabriquer un vase d'airain,
@@ -1653,7 +1647,7 @@ les flottes des Samiens et des Phocéens, ces derniers fondateurs de
 Marseille et vainqueurs des Carthaginois.
 
 Si, d'après Thucydide[1], les Athéniens furent les premiers parmi les
-Grecs, qui prirent des moeurs plus douces, il n'en est pas moins vrai
+Grecs, qui prirent des mœurs plus douces, il n'en est pas moins vrai
 que, à l'origine, ils exercèrent la piraterie comme tous les autres
 peuples de la Méditerranée. J'ai rappelé la peine sévère que leur
 infligea Minos pour venger le meurtre de son fils dont les Athéniens
@@ -1671,7 +1665,7 @@ l'étranger. La partie de la population qui habitait sur le bord de la
 mer se livrait à une piraterie effrénée. Ce fut l'exercice de cette
 profession qui fit naître une rivalité acharnée entre Athènes et Mégare.
 Ces deux villes se disputaient, de temps immémorial, la possession de
-l'île de Salamine, riche en pins (d'où son antique nom de _Pityussa_)
+l'île de Salamine, riche en pins (d'où son antique nom de _Pityussa_),
 pour construire les navires, et surtout admirablement située au fond du
 golfe Saronique et séparée de la côte par un canal de 1800 mètres de
 large. Placée sur le trajet des vaisseaux qui se rendaient au port de
@@ -1788,7 +1782,7 @@ attribuée à Athènes[1].
 Les mêmes actes de piraterie de peuple à peuple se retrouvent dans la
 lutte qui eut lieu entre Athènes et Égine.
 
-Située au milieu du golfe Saronique, l'île d'Égine, l'ancienne OEnone,
+Située au milieu du golfe Saronique, l'île d'Égine, l'ancienne Œnone,
 était à quelques heures des villes les plus florissantes de la Grèce, le
 Pirée, Éleusis, Mégare, Corinthe, Épidaure, Trézène. Elle est protégée
 par un rempart d'écueils qui forment une fortification naturelle sortie
@@ -1812,8 +1806,8 @@ rames et dont la proue et la poupe étaient travaillées avec un art assez
 avancé[4]. Le négoce maritime était aussi développé à Égine qu'à
 Corinthe. Égine dont les habitants ne méprisaient d'ailleurs aucun moyen
 de s'enrichir, avait aussi donné à la fabrication et au commerce des
-poteries extension qui lui valut dans l'antiquité l'épithète de
-χυτροπωλις, «marchande de marmites[5]». Les Éginètes fondèrent
+poteries une extension qui lui valut dans l'antiquité l'épithète de
+χυτροπωλις «marchande de marmites[5]». Les Éginètes fondèrent
 Cydonie, dans l'île de Crète, et une colonie chez les _Ombrici_, en
 Italie[6]. En Égypte, Amasis leur fit don du port de Naucratis, situé
 près de la bouche Canopique[7], qui devint une République grecque,
@@ -1908,9 +1902,9 @@ les Éginètes, devenus maîtres de la mer, profitèrent de leur puissance
 pour armer une flotte, exercer la piraterie et ravager le territoire
 d'Épidaure, leur métropole. Dans une de leurs expéditions, ils
 enlevèrent les statues consacrées, les transportèrent chez eux et les
-placèrent au centre de leur territoire, en un lieu appelé Oea, environ à
+placèrent au centre de leur territoire, en un lieu appelé Œa, environ à
 vingt stades de leur ville. Ils consacrèrent à chacune des déesses des
-chorèges et instituèrent en leur honneur des sacrifices et des choeurs
+chorèges et instituèrent en leur honneur des sacrifices et des chœurs
 de femmes qui s'adressaient des invectives[2]. Depuis l'enlèvement des
 statues, les Épidauriens avaient cessé de payer aux Athéniens le tribut
 établi. Aux menaces d'Athènes, Épidaure répondit que tant qu'elle avait
@@ -1927,7 +1921,7 @@ ajoute Hérodote, qu'elles ont conservée depuis cette époque. Les dieux,
 irrités d'une telle profanation, firent trembler la terre sous les pas
 de l'armée sacrilège, qui fut anéantie aux lueurs de la foudre. Un seul
 homme survécut pour aller annoncer à Athènes la vengeance céleste; et
-encore, pour que l'expiation fut complète, les femmes de ceux qui
+encore, pour que l'expiation fût complète, les femmes de ceux qui
 avaient été de l'expédition s'attroupèrent autour de l'unique survivant,
 et, lui demandant compte de la mort de leurs maris, le firent périr en
 le piquant avec les agrafes de leurs robes. L'atrocité de cette action
@@ -1956,8 +1950,8 @@ trente ans les hostilités. La guerre recommença en 491 avant J.-C. par
 un coup de main audacieux des Éginètes. S'étant placés en embuscade, ils
 enlevèrent, à la hauteur du promontoire Sunium, la _Théoris_, cette
 galère à cinq rangs de rames qui allait périodiquement à Délos accomplir
-le voeu de Thésée, et jetèrent aux fers les premiers citoyens d'Athènes
-qui la montaient[1]. Les Athéniens mirent tout en oeuvre pour se venger
+le vœu de Thésée, et jetèrent aux fers les premiers citoyens d'Athènes
+qui la montaient[1]. Les Athéniens mirent tout en œuvre pour se venger
 de cet attentat. Ils soulevèrent la démocratie d'Égine contre
 l'oligarchie qui était à la tête du gouvernement. Nicodrome, un banni
 d'Égine, instruit du projet des Athéniens, leur promit de leur livrer sa
@@ -1998,12 +1992,12 @@ Les historiens grecs ont attribué à la seule ambition des monarques de
 l'Orient l'origine de leurs invasions en Asie-Mineure et en Grèce, mais
 l'étude de l'état social des populations dans ces antiques époques, la
 recherche des causes véritables, le plus souvent multiples et diverses,
-dont les événements procèdent, l'analyse des moeurs, des intérêts
+dont les événements procèdent, l'analyse des mœurs, des intérêts
 matériels, du tempérament et du génie propres à chaque race démontrent
 bien vite que le problème est plus complexe, et que l'ambition seule n'a
 pas été l'unique mobile de ces invasions.
 
-Un rapide coup d'oeil sur l'histoire orientale est nécessaire pour
+Un rapide coup d'œil sur l'histoire orientale est nécessaire pour
 saisir le véritable caractère de la lutte mémorable qui eut lieu entre
 une grande nation à son déclin et une autre nation à l'aurore de ses
 destinées. La piraterie a joué un grand rôle à cette époque; inhérente à
@@ -2112,7 +2106,7 @@ Carthage, et Utique non loin de là[5].
 
     [4] Maspéro, _Hist. anc._, p. 266.
 
-    [5] Movers, _Die Phoenizier_, t. II.
+    [5] Movers, _Die Phœnizier_, t. II.
 
 L'Égypte qui s'était si vaillamment défendue contre les envahisseurs
 venus par mer, ne put résister aux Assyriens qui en firent la conquête
@@ -2284,10 +2278,10 @@ une grande entreprise contre les hordes menaçantes de la Scythie. En
 effet, après des préparatifs immenses, il franchit le Bosphore avec
 800,000 hommes, soumit la côte orientale de la Thrace et passa le Danube
 sur un pont de bateaux construit par les Ioniens. Pendant qu'il
-pénétrait victorieusement au coeur même de la Russie, les Scythes
+pénétrait victorieusement au cœur même de la Russie, les Scythes
 engagèrent les Ioniens, commis à la garde du pont, à le rompre et à
 reconquérir leur liberté. Miltiade, tyran de Chersonèse, voulait qu'on
-suivît le conseil; Histiée de Milet s'y opposa, et son avis prévalut.
+suivit le conseil; Histiée de Milet s'y opposa, et son avis prévalut.
 Darius, revenu sain et sauf, rentra en Asie, après avoir laissé une
 partie de son armée qui soumit les tribus turbulentes de la Thrace et
 força le roi de Macédoine à se reconnaître tributaire[1].
@@ -2340,7 +2334,7 @@ Samos 60, Milet 80, d'autres villes 43, en tout 353 trirèmes. Les Perses
 en avaient 600, mais, malgré la supériorité du nombre, ils n'osaient
 attaquer. Denys le Phocéen, qui se trouvait dans la flotte grecque avec
 ses vaisseaux, fit comprendre aux alliés qu'une discipline rigoureuse et
-une grande habitude des manoeuvres leur assurerait le succès, et,
+une grande habitude des manœuvres leur assurerait le succès, et,
 pendant sept jours, il dressa les matelots à manier la rame, à faire
 toutes les évolutions et tous les exercices nécessaires soit pour
 l'attaque soit pour la défense. Mais, au bout de ce temps, les Ioniens
@@ -2544,7 +2538,7 @@ l'autorité de la république. Les entreprises d'Athènes contre Naxos et
 contre Thasos avaient soulevé contre elle la colère de Sparte; un
 tremblement de terre qui détruisit cette ville (465 av. J.-C.) empêcha
 la guerre du Péloponèse d'éclater à cette époque. La ruine d'Égine, «la
-paille de l'oeil du Pirée», l'incendie de Gythion, le port de Sparte, la
+paille de l'œil du Pirée», l'incendie de Gythion, le port de Sparte, la
 conquête de Naupacte et de Mégare, celle de Samos, la répression de
 l'Eubée, la guerre de Corcyre, l'envahissement enfin toujours croissant
 des Athéniens, armèrent contre eux tout le Péloponèse, et alors commença
@@ -2557,7 +2551,7 @@ entre le parti démocratique et le parti aristocratique, massacres, et,
 pour comble de malheur, comme si la nature elle-même eût voulu concourir
 au bouleversement et à la ruine de la Grèce, des tremblements de terre
 et la peste, voilà le tableau horrible que présente cette guerre.
-Certains récits de Thucydide soulèvent le coeur, et nulle page
+Certains récits de Thucydide soulèvent le cœur, et nulle page
 d'histoire n'est peut-être plus terrible à lire que celle dans laquelle
 ce grand écrivain raconte le sort des prisonniers Coroyréens que l'on
 sortait vingt par vingt de leur prison, comme pour les mener devant des
@@ -2633,10 +2627,10 @@ ennemis[2].»
     [2] _Idem_.
 
 Ainsi, comme on le voit par cette importante citation prise dans les
-oeuvres d'un philosophe politique, l'empire de la mer dans l'antiquité
+œuvres d'un philosophe politique, l'empire de la mer dans l'antiquité
 consistait, pour Athènes même, la ville civilisée par excellence, à
 exercer la piraterie et à faire des courses sans crainte de
-représailles. Il n'y a pas lieu de s'étonner de ces moeurs publiques; le
+représailles. Il n'y a pas lieu de s'étonner de ces mœurs publiques; le
 droit des gens n'existait pas, la loi du plus fort, comme je l'ai déjà
 dit, était la seule du genre humain. L'affaire de Mélos en est une
 preuve éclatante: ancienne colonie lacédémonienne, Mélos refusa de
@@ -2712,15 +2706,15 @@ un décret qui rendit la perception de l'impôt plus facile et plus
 conforme à l'équité: tout citoyen dont la fortune était de dix talents
 (48,395 fr.) devait au besoin fournir à l'État une galère; il en
 fournissait deux s'il avait vingt talents; mais, quelque considérable
-que fut sa fortune, on n'exigeait de lui que trois galères et une
+que fût sa fortune, on n'exigeait de lui que trois galères et une
 chaloupe. Les citoyens qui avaient moins de dix talents se réunissaient
 pour contribuer d'une galère.
 
 L'équipage d'une galère se composait de trois éléments: 1º les rameurs,
 ναυται, pour la solde desquels l'État remettait des fonds aux
-triérarques; 2° les matelots, ύπηρίται, qui étaient au choix
+triérarques; 2º les matelots, ύπηρίται, qui étaient au choix
 et à la charge des triérarques; 3º enfin, les soldats de marine,
-ύπιδάται. D'après les calculs faits par Boeckh sur de nombreux textes
+ύπιδάται. D'après les calculs faits par Bœckh sur de nombreux textes
 épigraphiques, une galère athénienne était montée par environ 170
 rameurs, 56 en moyenne sur chaque banc[1]. Les apostoles, Αποστολείς,
 veillaient à ce que la flotte fût promptement armée; ils
@@ -2744,7 +2738,7 @@ commerce du Pont-Euxin le dixième des marchandises qu'ils portaient, et
 cette contribution forcée servait à indemniser en partie la République
 des dépenses qu'elle avait faites[3].
 
-    [1] Boeckh, _Attisches Seewesen_, p. 120.
+    [1] Bœckh, _Attisches Seewesen_, p. 120.
 
     [2] Xénophon, _Helléniques_, I.
 
@@ -2867,7 +2861,7 @@ antécédents de la maison de Macédoine étaient entachés de piraterie?
 Ce ne fut pas seulement en conquérant qu'Alexandre parcourut et soumit
 une grande partie de l'Asie, chacun de ses actes après la victoire
 décèle une politique aussi sage qu'habile. Partout il respecta les
-moeurs, les coutumes et la religion des peuples dont il triomphait. Il
+mœurs, les coutumes et la religion des peuples dont il triomphait. Il
 chercha surtout à opérer une fusion civilisatrice entre des races
 différentes. Il forma de grands projets touchant la marine; la mort
 seule en empêcha l'exécution. Il fonda Alexandrie dans une heureuse
@@ -3040,7 +3034,7 @@ célèbre Gélon, tyran de Syracuse, détruisit les escadres alliées qui
 assiégeaient l'antique colonie grecque de Cumes (475 av. J.-C.)[3]. Le
 grand poète Pindare a chanté cette victoire:
 
-«Fils de Saturne, reçois mes voeux ardents. Contiens dans leur pays les
+«Fils de Saturne, reçois mes vœux ardents. Contiens dans leur pays les
 bruyantes armées du Tyrrhénien et du Phénicien, frappés du désordre de
 leur flotte devant Cumes et des affronts qu'ils ont soufferts quand le
 maître de Syracuse les dompta sur leurs vaisseaux légers. Il précipita
@@ -3109,7 +3103,7 @@ portaient le nom de _Mamertins_, ou dévoués au dieu Mars. C'était
 l'usage parmi les peuples italiens dans les temps de calamités, de vouer
 aux dieux ce qu'ils appelaient «un printemps sacré», c'est-à-dire de
 leur consacrer tous les produits du printemps. Les jeunes gens compris
-dans ce voeu quittaient leur pays à l'âge de vingt ans, et allaient
+dans ce vœu quittaient leur pays à l'âge de vingt ans, et allaient
 vendre leur sang à qui voulait le payer. A la mort d'Agathocle, les
 Mamertins se révoltèrent et quittèrent Syracuse. Arrivés au détroit, ils
 furent accueillis par les Messiniens comme amis et comme alliés. Mais,
@@ -3144,7 +3138,7 @@ II qui, par sa sagesse et son courage, sut empêcher les Carthaginois
 d'étendre leurs conquêtes. Pyrrhus avait prévu avec raison les guerres
 puniques qui commencèrent, en effet, à l'occasion de la possession de la
 Sicile. Pour lutter contre Carthage, Rome comprit qu'elle devait créer
-une grande force navale; elle se mit à l'oeuvre avec une étonnante
+une grande force navale; elle se mit à l'œuvre avec une étonnante
 activité, comme nous le verrons bientôt. Mais auparavant il est
 intéressant de rechercher les origines de la navigation en Italie et
 d'étudier la marine la plus ancienne de cette contrée, celle des
@@ -3191,7 +3185,7 @@ reçurent des Grecs l'écriture. C'était l'opinion de Tacite[3].
 
 Les Étrusques ne connaissaient pas les arts avant l'arrivée des colons
 grecs; ils se formèrent sous la direction de ces derniers, mais leurs
-oeuvres ont conservé un cachet original, et plusieurs de leurs
+œuvres ont conservé un cachet original, et plusieurs de leurs
 représentations, telles que celles de certaines divinités et de femmes
 ailées, leur sont essentiellement propres et nationales.
 
@@ -3234,7 +3228,7 @@ Pyrgi, partaient des navires qui allaient faire le négoce et la course
 depuis les colonnes d'Hercule jusque sur les côtes de l'Asie-Mineure et
 de l'Égypte[4]. Les Étrusques étaient de grands métallurgistes; ils
 exploitèrent d'une manière savante les mines de la Maremme et de l'île
-d'Elbe. Leurs oeuvres d'art en bronze surtout, qui excitent encore notre
+d'Elbe. Leurs œuvres d'art en bronze surtout, qui excitent encore notre
 admiration, étaient fort recherchées dans l'antiquité. L'histoire nous
 apprend qu'à l'époque de la deuxième guerre punique, la ville de
 Populonia fournit à Scipion l'Africain tout le fer dont il avait besoin
@@ -3498,7 +3492,7 @@ furent à l'ancre sur le rivage[3]. Il ne manquait plus que des marins,
 la discipline romaine les eut bientôt formés. Pendant que les navires
 étaient encore dans les chantiers, les recrues qui devaient les monter
 (_socii navales_) s'habituaient sur terre à faire avec des rames tous
-les mouvements de la manoeuvre[4]. Aussi dès que les navires furent
+les mouvements de la manœuvre[4]. Aussi dès que les navires furent
 équipés, ils n'eurent besoin que de s'exercer quelques jours sur la mer,
 le long des côtes, avant de se diriger vers la Sicile à la rencontre des
 Carthaginois. Duilius conduisait cette flotte (260 av. J.-C.); mais ses
@@ -3638,9 +3632,9 @@ pour la supplier de faire cesser la piraterie dans la mer Adriatique.
 
     [2] Polybe, II, 1.
 
-    [3] Polybe, II__, 2.
+    [3] Polybe, II, 2.
 
-Le Sénat dépêcha Caius et Lucius Coruncanius qui demandèrent audience à
+Le Sénat dépêcha Caïus et Lucius Coruncanius qui demandèrent audience à
 la reine Teuta. Les ambassadeurs se plaignirent des torts que les
 négociants italiens avaient soufferts de la part des corsaires
 illyriens. La reine les laissa parler sans les interrompre, affectant
@@ -3648,7 +3642,7 @@ des airs de hauteur et de fierté. Quand ils eurent fini, sa réponse fut
 qu'elle tâcherait d'empêcher que la république n'eut dans la suite le
 sujet de se plaindre de son royaume en général; mais que ce n'était pas
 la coutume des rois d'Illyrie de défendre à leurs sujets d'aller en
-course pour leur utilité particulière A ces mots, la colère s'empare du
+course pour leur utilité particulière. A ces mots, la colère s'empare du
 plus jeune des ambassadeurs qui s'écrie avec indignation: «Chez nous,
 reine, une des plus belles coutumes est de venger en commun les torts
 faits aux particuliers, et nous ferons, s'il plaît aux dieux, en sorte
@@ -3660,8 +3654,8 @@ Cléemporus, envoyé par les Issiens, tomba aussi sous la hache des
 Illyriens. Les commandants des vaisseaux furent brûlés vifs, et le reste
 ne dut son salut qu'à la fuite[1].
 
-    [1] Polybe, ii, 2;--Florus, ii, v, _Bellum
-    illyricum_;--Appien, vii.
+    [1] Polybe, II, 2;--Florus, II, V, _Bellum
+    illyricum_;--Appien, VII.
 
 Grande fut l'indignation à Rome, à la nouvelle de cet odieux attentat;
 le Sénat fit immédiatement des préparatifs de guerre, leva des troupes
@@ -3716,7 +3710,7 @@ C'était alors, à Rome, le temps d'élire les consuls (229 avant J.-C.).
 Cn. Fulvius, ayant été choisi, eut le commandement de l'armée navale, et
 Aulus Posthumius, son collègue, celui de l'armée de terre. Fulvius
 voulait d'abord cingler droit à Corcyre, dans l'espoir d'arriver à temps
-pour la secourir; mais, quoique la ville fut rendue, il suivit néanmoins
+pour la secourir; mais, quoique la ville fût rendue, il suivit néanmoins
 son premier dessein, tant pour connaître au juste ce qui s'était passé
 que pour s'assurer de ce qui avait été mandé à Rome par Démétrius de
 Pharos. Celui-ci, en effet, dans la crainte de se voir enlever le
@@ -3862,7 +3856,7 @@ Grèce et de la Mauritanie, les corsaires ne sentent point directement
 son bras et se livrent librement au pillage et à la dévastation.
 
 Parmi les peuples de la Grèce, les Étoliens avaient seuls gardé des
-moeurs sauvages et des habitudes de brigandage. Ils faisaient de
+mœurs sauvages et des habitudes de brigandage. Ils faisaient de
 fréquentes incursions, et pirataient sur terre comme sur mer. C'étaient
 des bêtes féroces plutôt que des hommes, dit Polybe[1], sans distinction
 pour personne, rien n'était exempt de leurs hostilités. Cependant, tant
@@ -3975,9 +3969,8 @@ fronde, et, à cet effet, les parents ne donnaient à leurs enfants le
 pain dont ils avaient besoin qu'après que ceux-ci avec leurs frondes
 l'avaient atteint comme une cible.
 
-    [1] Le _schoenus mucronatus_, suivant Sprengel; mais plus
-    vraisemblablement, suivant Fraas, les _schoenus
-    nigricans_.
+    [1] Le _schœnus mucronatus_, suivant Sprengel; mais plus
+    vraisemblablement, suivant Fraas, les _schœnus nigricans_.
 
 A l'époque des désastres de Carthage, les insulaires des Baléares
 profitèrent de leur indépendance pour infester la mer de leur piraterie
@@ -4134,7 +4127,7 @@ lesquels étaient embarquées les troupes attendues par le roi, furent
 jetés à la côte par la tempête, et tombèrent, en partie, au pouvoir des
 Rhodiens. Mithridate assiégea néanmoins la ville, et fit battre les murs
 du côté de la mer par une énorme machine, établie sur deux hexérèmes
-manoeuvrant à la fois des béliers et lançant des javelots et des
+manœuvrant à la fois des béliers et lançant des javelots et des
 flèches; mais ce terrible engin, connu sous le nom de sambuque,
 s'écroula sous son propre poids. Tous les efforts de Mithridate
 échouèrent contre l'héroïque résistance des Rhodiens; aussi se
@@ -4157,7 +4150,7 @@ tous les parages de l'est et d'y ramasser une escadre à tout prix.
 
     [2] Appien, XXIX.
 
-Lucullus se met à l'oeuvre avec une grande activité. et se trouve
+Lucullus se met à l'œuvre avec une grande activité, et se trouve
 bientôt à la tête de quelques embarcations non pontées, empruntées aux
 Rhodiens et à d'autres moindres cités; mais il donne dans une nuée de
 pirates et ne leur échappe que par le plus heureux hasard, en perdant
@@ -4246,7 +4239,7 @@ vols «la solde militaire[5]».
 
 Bien plus, des hommes considérables, distingués par leur naissance et
 leurs capacités, montaient sur les vaisseaux des pirates et se
-joignaient à eux. Il semblait, dit Plutarque, que la piraterie fut
+joignaient à eux. Il semblait, dit Plutarque, que la piraterie fût
 devenue un métier honorable et propre à flatter l'ambition[1].
 L'aristocratie romaine ruinée n'avait pas de meilleure ressource pour
 refaire sa fortune.
@@ -4330,7 +4323,7 @@ liberté, ce fut d'équiper secrètement quelques galères pour combattre
 les brigands. Il prit si bien ses mesures que tous les pirates encore à
 l'ancre tombèrent entre ses mains. Il les remit en dépôt dans la prison
 de Pergame et alla trouver Junius, à qui il appartenait, comme préteur
-d'Asie, de les punir. Junius jeta un oeil de cupidité sur l'argent qui
+d'Asie, de les punir. Junius jeta un œil de cupidité sur l'argent qui
 était considérable et dit qu'il examinerait à loisir ce qu'il ferait des
 prisonniers. Il voulait probablement les vendre à son profit. Mais
 César, laissant là le préteur, fit mettre en croix les pirates, comme il
@@ -4449,7 +4442,7 @@ mais aussitôt après la mort de Minos, l'absence de tout grand intérêt
 national et les guerres civiles les avaient de nouveau jetés en
 aventuriers sur les mers. Les Crétois firent cause commune avec les
 Ciliciens et tous les corsaires qui infestaient la mer Intérieure. La
-Crète devint ainsi une seconde pépinière de pirates.[1]
+Crète devint ainsi une seconde pépinière de pirates[1].
 
 Aucun peuple n'a été aussi maltraité par les historiens que le peuple
 crétois: aucun n'a laissé une aussi triste réputation. Les Athéniens,
@@ -4462,7 +4455,7 @@ dangereux de s'attirer la haine d'une ville «qui sait parler[2]».
 Polybe, parlant des Crétois de son temps, dit que l'argent est en si
 grande estime auprès d'eux qu'il leur paraît non seulement nécessaire
 mais glorieux d'en posséder; l'avarice et l'amour de l'or étaient si
-bien établis dans leurs moeurs que seuls dans l'univers les Crétois ne
+bien établis dans leurs mœurs que seuls dans l'univers les Crétois ne
 trouvaient nul gain illégitime[3].
 
     [1] Plutarque, _Vie de Pompée_.
@@ -4483,10 +4476,10 @@ l'argent. Aussi je ne viens ici que pour de l'argent. Quant aux droits
 politiques, accordez-les à ceux qui se les disputent et qui achètent ces
 fariboles au prix de leur sang.» Le consul se mit à rire, à son tour, et
 dit à cet homme: «Eh bien, si nous réussissons dans notre entreprise, je
-te donnerai mille drachmes (environ 9,500 fr.) en récompense[1].
+te donnerai mille drachmes (environ 9,500 fr.) en récompense[1]».
 
 On trouve dans Polybe[2] des traits analogues concernant les Crétois.
-Cet historien dit encore qu'il est impossible de trouver des moeurs
+Cet historien dit encore qu'il est impossible de trouver des mœurs
 privées plus corrompues que celles des Crétois, et par suite, des actes
 publics plus injustes. Le nom de Crétois était devenu synonyme de
 menteur; il était passé en proverbe qu'il est permis de _crétiser avec
@@ -4699,7 +4692,7 @@ flibustiers feignaient l'étonnement et la crainte; ils se frappaient la
 cuisse, se jetaient à ses genoux et le priaient de pardonner. Le
 prisonnier se laissait convaincre à cet air d'humilité et de
 supplication. On lui remettait alors des souliers et une toge, afin
-qu'il ne fut plus méconnu. Après s'être ainsi longtemps moqués de lui et
+qu'il ne fût plus méconnu. Après s'être ainsi longtemps moqués de lui et
 avoir joui de son erreur, les pirates finissaient par jeter une échelle
 au milieu de la mer et lui ordonnaient de descendre et de retourner chez
 lui; si le malheureux refusait, ils le précipitaient eux-mêmes et le
@@ -4737,7 +4730,7 @@ LA LOI GABINIA.--POMPÉE.--LA CILICIE.
 
 L'an 67, le tribun Gabinius, ami de Pompée, qui portait le surnom de
 Grand depuis la guerre contre Sertorius, proposa qu'un des consulaires
-fut investi pour trois ans, avec une autorité absolue et irresponsable,
+fût investi pour trois ans, avec une autorité absolue et irresponsable,
 du commandement des mers et de toutes les côtes de la Méditerranée
 jusqu'à 400 stades[1] dans l'intérieur. Cet espace renfermait une grande
 partie des terres soumises à la domination romaine, les nations les plus
@@ -4854,7 +4847,7 @@ pauvres et aguerris, ni de leur laisser la liberté de s'écarter ou de se
 rassembler de nouveau. Réfléchissant, dit Plutarque, que l'homme n'est
 pas de sa nature un être farouche et insociable, qu'il ne le devient
 qu'en se livrant au vice, contre son naturel, qu'il perfectionne ses
-moeurs, au contraire, en changeant d'habitation et de genre de vie, et
+mœurs, au contraire, en changeant d'habitation et de genre de vie, et
 que les bêtes sauvages elles-mêmes, quand on les accoutume à une
 existence plus douce, dépouillent leur férocité, Pompée résolut de
 transporter les captifs loin de la mer, dans l'intérieur des terres, et
@@ -5103,11 +5096,11 @@ puissance inquiéta les triumvirs et sa tête fut mise à prix. Octave
 envoya même contre lui Salvidiénus avec une grosse flotte. Instruit des
 projets de son adversaire, Sextus se jette au-devant de lui et l'aborde
 impétueusement près de Scylla. Ses navires légers et habilement
-manoeuvrés par des mains exercées se meuvent avec aisance et rapidité;
+manœuvrés par des mains exercées se meuvent avec aisance et rapidité;
 ceux de Salvidiénus, gros et lourds, peuvent à peine remuer. La mer
 s'agite, les vaisseaux pompéiens restent dociles au gouvernail, tandis
 que les autres sont mis en désordre et se montrent rebelles à toute
-manoeuvre. La nuit étant survenue, les deux flottes ennemies se
+manœuvre. La nuit étant survenue, les deux flottes ennemies se
 retirèrent, non sans avoir perdu quelques navires.
 
 Sextus fit alliance contre les triumvirs avec Cassius et Brutus. Après
@@ -5142,7 +5135,7 @@ Neptune, afin de témoigner ainsi sa sympathie pour Sextus que l'on
 appelait _Fils du dieu des mers_. Quelques jours après, le tumulte
 devint si grand qu'Octave se crut obligé de paraître dans les groupes
 qui proféraient des menaces contre les triumvirs. Il eut été assassiné
-peut-être si Antoine ne fut venu avec ses soldats et n'eut fait tuer les
+peut-être si Antoine ne fût venu avec ses soldats et n'eut fait tuer les
 plus mutins. On jeta les cadavres dans le Tibre; mais la foule ne s'en
 montra que plus exaspérée, et, par de nouvelles clameurs, elle força les
 triumvirs à négocier avec Sextus Pompée[1].
@@ -5176,7 +5169,7 @@ payaient autrefois les îles qui lui étaient abandonnées.
 
 Quand on vit, à l'issue de la négociation, les trois chefs s'embrasser
 en signe de paix et d'amitié, un même cri de joie partit de la flotte,
-de l'armée et de toute l'Italie. Il semblait que ce fut la fin de toutes
+de l'armée et de toute l'Italie. Il semblait que ce fût la fin de toutes
 les guerres et de tous les maux. Avant de se séparer, les trois plus
 puissants Romains d'alors se donnèrent des fêtes. Le sort désigna Pompée
 pour traiter le premier ses nouveaux amis. «Mais où souperons-nous?
@@ -5248,7 +5241,7 @@ Sextus Pompée le prévint; il envoya contre Ménodorus et Calvisius le
 corsaire Ménécratès, et attendit lui-même, dans le port de Messine,
 l'arrivée d'Octave. Ménécratès rencontra la flotte de Toscane à la
 hauteur de Cumes. Calvisius l'avait rangée en croissant, tout près des
-côtes. Les navires ne pouvaient ainsi manoeuvrer que difficilement et
+côtes. Les navires ne pouvaient ainsi manœuvrer que difficilement et
 étaient exposés, en cas d'échec, à être rejetés sur les rochers.
 Cependant, malgré le désavantage de cette position, ils combattirent
 longtemps avec beaucoup de valeur. Une lutte terrible s'engagea entre la
@@ -5572,7 +5565,7 @@ sujet, une anecdote d'un haut intérêt. Un jour qu'Auguste naviguait près
 de la rade de Pouzzoles, les passagers et les matelots d'un navire
 d'Alexandrie, qui était à la rade, vinrent le saluer, vêtus de robes
 blanches et couronnés de fleurs. Ils brûlèrent même devant lui de
-l'encens, et le comblèrent de louanges et de voeux pour son bonheur, en
+l'encens, et le comblèrent de louanges et de vœux pour son bonheur, en
 s'écriant que c'était par lui qu'ils vivaient, à lui qu'ils devaient la
 liberté de la navigation et tous leurs biens, «_per illum se vivere, per
 illum navigare, libertate atque fortunis per illum frui_». Ces
@@ -5592,7 +5585,7 @@ titre de «communautés nouvelles», des associations de malfaiteurs qui
 commettaient toutes sortes de crimes. Auguste contint tous ces brigands,
 en plaçant des postes où il en était besoin; il visita les ateliers
 d'esclaves et dispersa les communautés dont l'organisation lui
-paraissait contraire à l'ordre public et aux bonnes moeurs[2].
+paraissait contraire à l'ordre public et aux bonnes mœurs[2].
 
     [1] Suétone, _Vie d'Auguste_, XCVIII.
 
@@ -5617,7 +5610,7 @@ poètes de Rome, en l'honneur d'Auguste:
   Nutrit rura Ceres, almaque Faustitas;
   Pacatum volitant per mare navitæ.
 
-«Grâce à toi, dit Horace[2], le boeuf parcourt en paix les prairies;
+«Grâce à toi, dit Horace[2], le bœuf parcourt en paix les prairies;
 Cérès et la douce abondance fécondent nos champs; _les navires volent
 sur la mer pacifiée_.»
 
@@ -5628,7 +5621,7 @@ sur la mer pacifiée_.»
 
 Pour Virgile[1], Auguste est un dieu:
 
-  An deus inmensi venias maris, ac tua nautæ
+  An deus immensi venias mari, ac tua nautæ
   Numina sola colant, tibi serviat ultima Thule!
 
 
@@ -5749,7 +5742,7 @@ ont été publiés en France et à l'étranger, je dois nécessairement me
 borner à rechercher sobrement l'influence qu'il a eue au point de vue de
 la piraterie et de la sécurité publique et privée. Il a détruit l'une et
 fait naître l'autre. Aussi le gouvernement impérial fut-il bien
-accueilli dans les provinces. Tacite le proclame au début de ses oeuvres
+accueilli dans les provinces. Tacite le proclame au début de ses œuvres
 immortelles: «Le nouvel ordre de choses plaisait aux provinces qui
 avaient en défiance le gouvernement du Sénat et du peuple à cause des
 querelles des grands et de l'avarice des magistrats, et qui attendaient
@@ -5757,7 +5750,7 @@ peu de secours des lois, impuissantes contre la force, la brigue et
 l'argent[1].»
 
 Les provinces étaient de deux sortes, celles de l'empereur et celles du
-Sénat et du peuple, mais l'empereur avait l'oeil aussi bien dans les
+Sénat et du peuple, mais l'empereur avait l'œil aussi bien dans les
 unes que dans les autres, et partout les gouverneurs veillaient au
 maintien de l'ordre, à la bonne gestion des affaires, prévenaient, en
 imposant leur arbitrage ou leur autorité, les guerres particulières, et,
@@ -5979,9 +5972,9 @@ a dit Cicéron, ramène les animaux féroces où ils ont trouvé une fois
 pâture.» Des masses de ces barbares désertèrent donc leurs rocs
 inaccessibles et vinrent, comme l'ouragan, s'abattre sur les côtes.
 Cachés dans le fond des ravins ou de creux vallons, ils épiaient
-l'arrivée des bâtiments de commerce, attendant pour agir que la nuit fut
+l'arrivée des bâtiments de commerce, attendant pour agir que la nuit fût
 venue. La lune, alors dans le croissant, ne leur prêtait qu'assez de
-lumière pour observer, sans que leur présence fut trahie. Dès qu'ils
+lumière pour observer, sans que leur présence fût trahie. Dès qu'ils
 supposaient les marins endormis, ils se hissaient des pieds et des mains
 le long des cables d'ancrage, escaladaient sans bruit les embarcations
 et prenaient ainsi les équipages à l'improviste. Excités par l'appât du
@@ -6004,7 +5997,7 @@ soldats romains furent forcés, pour suivre leurs agiles adversaires,
 d'escalader des pentes abruptes, en glissant et en s'accrochant aux
 ronces et aux broussailles des rochers; puis ils voyaient tout à coup,
 après avoir gagné quelque pic élevé, le terrain leur manquer pour se
-développer et manoeuvrer de pied ferme. Il fallait alors redescendre, au
+développer et manœuvrer de pied ferme. Il fallait alors redescendre, au
 hasard d'être atteints par les quartiers de roche que l'ennemi, présent
 sur tous les points, faisait rouler sur leurs têtes. On eut recours à
 une tactique mieux entendue: c'était d'éviter d'en venir aux mains tant
@@ -6020,7 +6013,7 @@ de Nébridius, comte d'Orient, lieutenant de Gallus.
 Sous les règnes malheureux de Valérien et de Gallien (249-268),
 l'insurrection rendit l'Isaurie à ses habitudes d'indépendance et de
 rapine, et l'énergie dégénérée de Rome, impuissante désormais à remettre
-sous le joug cette population de quelques montagnes situées au coeur de
+sous le joug cette population de quelques montagnes situées au cœur de
 l'empire, ne put que l'enfermer d'une ceinture de forteresses, souvent
 insuffisantes pour contenir ses incursions. On vit cependant cette race
 proscrite et méprisée fournir par la suite des soldats aux armées
@@ -6253,8 +6246,8 @@ anciennes habitudes de brigandage, à s'épurer, à s'adoucir et à se
 moraliser par l'effet des divines doctrines du Christ. C'est du
 christianisme, en un mot, que naquit le droit des gens.
 
-    [1] _Cod. tit. de poenis;_ Const. 25, _Basiliques_, liv.
-    9, tit. 47, _de poenis_. «_His qui conficiendi naves
+    [1] _Cod. tit. de pœnis;_ Const. 25, _Basiliques_, liv.
+    9, tit. 47, _de pœnis_. «_His qui conficiendi naves
     incognitam ante peritiam barbaris tradiderint capitale
     judicium decernimus._»
 
@@ -6320,17 +6313,17 @@ dispositions des lois de Tyr. Il passa en partie dans la loi romaine.
 Une question vivement débattue et sur laquelle les opinions les plus
 contraires se sont produites, a été celle de savoir si le recueil ou
 compilation aujourd'hui connu sous le nom de _lois rhodiennes_, publié
-pour la première fois par Schard, en 1591, et inséré par Loewenklau, en
+pour la première fois par Schard, en 1591, et inséré par Lœwenklau, en
 1596, dans une collection d'ouvrages sur le droit gréco-romain, _jus
 græco-latinum_, sous la rubrique: _Loi maritime des Rhodiens_,
 Νόμος Ροδίων ναυτικος, doit être considéré comme contenant le texte
 des véritables lois de Rhodes. Jacques Godefroy, Mornac, Vinnius,
 Gianonne, Valin ont accepté et vanté ce recueil comme authentique[1].
-François Baudoin, Antoine Augustin, Bynkershoeck, Heineccius, Gravina
+François Baudoin, Antoine Augustin, Bynkershœck, Heineccius, Gravina
 croient, au contraire, y reconnaître les signes manifestes d'un récit
 trompeur et d'une composition fabriquée à plaisir par un juriste
 ignorant, ou peut-être par un pauvre grec affamé: «_Jus illud rhodium
-quod nescio quis Græculus esuriens finxit_,» dit Bynkershoeck[2]. Cujas
+quod nescio quis Græculus esuriens finxit_,» dit Bynkershœck[2]. Cujas
 a exprimé, au sujet de ces lois rhodiennes, l'opinion que ce n'étaient
 pas les anciennes lois de cette île célèbre, mais des lois d'une date
 plus récente, _recentiorum leges_. M. de Pastoret, dans sa remarquable
@@ -6479,7 +6472,7 @@ Dans l'intérêt de la navigation, le législateur obligea les maîtres de
 navires à prendre dans des passes difficiles des pilotes spéciaux ayant
 acquis par la pratique une connaissance exacte et sûre des lieux. Sa
 sollicitude s'étendit à la police des gens de mer, et veilla à ce qu'une
-discipline rigoureuse fut observée à bord des navires de commerce comme
+discipline rigoureuse fût observée à bord des navires de commerce comme
 à bord des vaisseaux de l'État. Il plaça sous la protection de la loi,
 les familles des marins ou naviculaires victimes de leur dévoûment.
 Enfin, la création des douanes organisées à Athènes comme à Rome, eut
@@ -6515,12 +6508,12 @@ butin. Ainsi le droit de prise s'exerçait non seulement pendant la
 guerre, mais même pendant la paix, à l'égard des peuples qui n'avaient
 avec Rome ni pacte d'alliance, ni lien d'hospitalité ou d'amitié. C'est
 ce que dit Pomponius: «_Si cum gente aliqua neque amicitiam, neque
-hospitium, neque foedus amicitiæ causa factum habemus, hi hostes quidem
+hospitium, neque fœdus amicitiæ causa factum habemus, hi hostes quidem
 non sunt, quod autem ex nostro ad eos pervenit illorum fit, et liber
 homo noster ab eis captus servus fit et eorum: idemque est si ab illis
 aliquid ad nos perverniat[1]._» Ces lois inhumaines qui sanctionnaient
 dans une trop large mesure la piraterie elle-même, ont fait dire à
-Grotius que dans ces temps la corruption des moeurs avait éteint chez
+Grotius que dans ces temps la corruption des mœurs avait éteint chez
 les hommes «le sentiment de l'humanité qui les rend sociables par
 nature[2]». Cependant, hâtons-nous d'ajouter que le grand jurisconsulte
 Ulpien posa en principe, à propos du droit de prise, que la translation
@@ -6536,7 +6529,7 @@ libre devenait esclave de celui qui l'avait racheté jusqu'à ce qu'il eut
 remboursé sa rançon. Nous voyons dans le plaidoyer d'_Apollodore contre
 Nicostrate_, attribué à Démosthène, que Nicostrate s'étant mis en mer à
 la poursuite de trois esclaves fugitifs, tomba entre les mains des
-pirates, fut vendu à Égine, y subit un sort affreux et fut resté en
+pirates, fut vendu à Égine, y subit un sort affreux et fût resté en
 servitude s'il n'avait trouvé le moyen de rembourser les 26 mines
 (23.831 fr. 60) que son acquéreur avait payées aux pirates. Une
 inscription d'Amorgos[5], de la fin du troisième siècle av. J.-C.,
@@ -6546,8 +6539,8 @@ femmes et d'autres, au nombre de plus de trente, Hégésippe et Antipappos
 qui eux-mêmes se trouvaient parmi les prisonniers, décidèrent le chef
 des pirates à rendre les hommes libres; quelques-uns des affranchis et
 des esclaves s'offrirent eux-mêmes en garantie et montrèrent un zèle
-extrême pour empêcher qu'aucun des citoyens ou citoyennes ne fut
-distribué comme partie du butin, ou vendu, et ne souffrit rien qui fut
+extrême pour empêcher qu'aucun des citoyens ou citoyennes ne fût
+distribué comme partie du butin, ou vendu, et ne souffrit rien qui fût
 indigne de sa condition.» En récompense de cette action honorable, on
 leur vota une couronne; l'inscription est le décret même du peuple en
 leur faveur.
@@ -6561,7 +6554,7 @@ leur faveur.
 
     [4] Petit, _Lois attiques_, VII, 17.
 
-    [5] Boeckh, _Corp. inscript._, suppl. n° 2263.
+    [5] Bœckh, _Corp. inscript._, suppl. nº 2263.
 
 
 
@@ -6679,7 +6672,7 @@ _leno_ avait fait une fausse déclaration, il était obligé de dédommager
 l'acheteur de la perte que celui-ci pouvait faire, et même, dans
 certains cas, de reprendre l'esclave. Ceux que le marchand ne voulait
 pas garantir étaient mis en vente avec une sorte de bonnet (_pileus_)
-sur la tête, afin que l'acheteur fut bien averti. Les esclaves venus des
+sur la tête, afin que l'acheteur fût bien averti. Les esclaves venus des
 pays situés au delà des mers portaient à leurs pieds des marques tracées
 avec de la craie, et leurs oreilles étaient percées. C'était à Pouzzoles
 que les pirates débarquaient de préférence leur marchandise, en étalant
@@ -6716,38 +6709,38 @@ DÉCLAMATION.
 Les historiens grecs et romains auxquels j'ai fait de si nombreux
 emprunts pour le développement de la partie historique de la piraterie
 ne sont pas les seuls à consulter sur cette matière, il faut aussi
-interroger les oeuvres purement littéraires, si l'on veut avoir une idée
+interroger les œuvres purement littéraires, si l'on veut avoir une idée
 complète de la piraterie dans l'antiquité. Le théâtre, la comédie
-surtout, reflet des moeurs, abonde en aperçus précieux et en documents
-curieux sur la piraterie. C'est dans les oeuvres des grands auteurs
+surtout, reflet des mœurs, abonde en aperçus précieux et en documents
+curieux sur la piraterie. C'est dans les œuvres des grands auteurs
 comiques que je trouverai, jetés çà et là, une foule de traits
 caractéristiques et une multitude de renseignements concernant la vie et
-les moeurs des pirates, marchands d'esclaves. Combien la moisson serait
+les mœurs des pirates, marchands d'esclaves. Combien la moisson serait
 plus abondante si la comédie grecque n'avait pas disparu! A défaut des
-oeuvres des poètes comiques de la Grèce reste le théâtre de Plaute et de
+œuvres des poètes comiques de la Grèce reste le théâtre de Plaute et de
 Térence, imitateurs d'Épicharme, de Ménandre, de Philémon, de Diphile,
 d'Alexis, et les scènes qu'il contient sur la piraterie tiennent à la
 fois de la Grèce et de Rome, comme du reste les personnages et les
-moeurs.
+mœurs.
 
 En dehors de l'histoire, le théâtre suffirait pour nous apprendre que la
 piraterie était en pleine vigueur dans le monde ancien. En effet, il
 n'est presque pas de pièce où l'intrigue ne roule sur des enlèvements de
 jeunes filles et de jeunes gens. Je n'ai qu'à citer par exemple le sujet
-de la pièce du _Poenulus, le petit Carthaginois_, imitée de Ménandre,
+de la pièce du _Pœnulus, le petit Carthaginois_, imitée de Ménandre,
 pour le prouver. Dans le prologue, Plaute expose qu'il y avait à
 Carthage deux pères auxquels on enleva à l'un son fils âgé de sept ans,
 et à l'autre ses deux filles en bas âge avec leur nourrice. Le garçon
 fut transporté à Calydon et vendu à un vieillard qui l'adopta et le fit
 son héritier; quant aux deux jeunes filles, elles furent achetées,
 argent comptant, avec leur nourrice, par un marchand d'esclaves, le plus
-exécrable des hommes, si toutefois un _leno_ est un homme.
+exécrable des hommes, si toutefois un _leno_ est un homme,
 
   Præsenti argento, homini, si leno 'st homo,
   Quantum hominum terra sustinet, sacerrumo.
 
-Dans la fameuse pièce des _Ménechmes_, le chef-d'oeuvre de Plaute, un
-des chefs-d'oeuvre aussi de notre poète comique Regnard, il s'agit
+Dans la fameuse pièce des _Ménechmes_, le chef-d'œuvre de Plaute, un
+des chefs-d'œuvre aussi de notre poète comique Regnard, il s'agit
 encore d'enlèvement. Dans le _Câble_ (_rudens_), imité de Diphile,
 Palæstra, fille de Démonès de Cyrène, est tombée toute jeune entre les
 mains d'un pirate qui l'a vendue au trafiquant Labrax. Il en est de même
@@ -6758,12 +6751,12 @@ intrigues imaginées par le poète.
 
 Plaute, qui vivait à une époque où la piraterie était maîtresse de la
 Méditerranée, composa même une comédie intitulée _les Pirates ou
-l'Aveugle, Prædones vel coecus_. La perte de cette oeuvre nous est
+l'Aveugle, Prædones vel cœcus_. La perte de cette œuvre nous est
 particulièrement sensible; que de détails intéressants elle nous eut
 donnés sur la piraterie! Il n'en reste que quelques vers; l'un d'eux
 résume en lui seul l'histoire de la piraterie:
 
-  Ita sunt prædones, prorsum parcunt nemini.
+  Ita sunt prædones, prorsum parcunt nemini,
 
 «Voilà comme sont les pirates, ils n'épargnent personne!» D'ingénieux
 interprètes, M. Naudet, entre autres, ont donné par conjecture l'analyse
@@ -6774,7 +6767,7 @@ Carthage. On mettait en scène des pirates africains. Les spectateurs
 romains admiraient les richesses d'une demeure ou d'une ville près de
 laquelle les flibustiers avaient débarqué. On s'apprêtait au combat;
 peut-être l'invasion arrivait-elle au milieu d'une fête. Les brigands
-triomphaient. Ils se vantaient de leurs violences.
+triomphaient. Ils se vantaient de leurs violences,
 
   Perii, hercle, Afer est!
 
@@ -6792,8 +6785,8 @@ le marchand d'esclaves, le _leno_. Ces poètes sont très durs pour ces
 misérables voleurs et vendeurs d'esclaves; ils en parlaient du reste en
 connaissance de cause, Plaute était esclave, et Térence avait été enlevé
 par des pirates. Il n'est pas étonnant dès lors de trouver dans leurs
-oeuvres une science profonde des ruses et des spéculations du _leno_,
-des misères et des moeurs de l'esclave. Dans Plaute surtout, le
+œuvres une science profonde des ruses et des spéculations du _leno_,
+des misères et des mœurs de l'esclave. Dans Plaute surtout, le
 caractère des esclaves, leurs fourberies, et aussi leurs souffrances,
 sont reproduites avec une vérité et une énergie admirables. A l'époque
 où les poètes comiques grecs et latins mettaient sur la scène des
@@ -6837,7 +6830,7 @@ d'embarras n'a qu'à se donner deux choses, _un vaisseau_ et une femme!»
   Negoti sibi qui volet vim parare
   Navem et mulierem, hæc duo conparato[1].
 
-    [1] _Poenulus_, acte I, sc. II, v. 210-211.
+    [1] _Pœnulus_, acte I, sc. II, v. 210-211.
 
 Non seulement la piraterie fournissait des sujets de comédies au
 théâtre, elle avait encore du retentissement dans les _écoles de
@@ -6935,7 +6928,7 @@ qu'on supposait que l'enfant ingrat avait eu «l'insigne honneur de tuer
 un tyran», action qui le mettait au-dessus des lois et lui attirait la
 bienveillance des juges-déclamateurs. Le tyrannicide était l'homme à la
 mode dans les écoles de déclamation. Juvénal nous apprend que la classe
-nombreuse du rhéteur Vectius immolait en choeur dans ses compositions
+nombreuse du rhéteur Vectius immolait en chœur dans ses compositions
 les farouches tyrans[1]. La plupart du temps on supposait aussi que le
 meurtrier était le plus proche parent du tyran, et l'on discutait s'il
 devait être puni ou récompensé.
@@ -6963,7 +6956,7 @@ d'imagination.
 Les uns montraient, en effet, le captif couvert de haillons, enchaîné et
 gisant au fond d'un horrible cachot. Puis, ils faisaient apparaître la
 jeune fille, douce, sensible, aimante, née probablement de quelque
-captive, car elle n'avait rien des moeurs des pirates, _nihil in illa
+captive, car elle n'avait rien des mœurs des pirates, _nihil in illa
 deprehendi poterat piraticum_; elle supplie son père, se jette à ses
 genoux en l'implorant en faveur du malheureux prisonnier dont les
 souffrances lui arrachent des larmes. La fille du pirate parvient enfin
@@ -6999,7 +6992,7 @@ pirates d'une manière en tous points conforme aux données de l'histoire.
 La controverse de l'_Archipiratæ filia_ est un souvenir perpétué dans
 les écoles de déclamation de certaines aventures romanesques qui se
 produisirent au moment où la piraterie était maîtresse de la mer.
-L'amour, en effet, ne pouvait-il pas naître dans le coeur des filles des
+L'amour, en effet, ne pouvait-il pas naître dans le cœur des filles des
 pirates quand elles voyaient parmi les captifs de jeunes Romains, de
 haute aristocratie et de belles manières, surtout quand ce captif était
 un Clodius ou un César? Et de même ne peut-on pas supposer avec quelque
@@ -7017,7 +7010,7 @@ n'exigeait pas sa mort?
 
 On voit par l'esquisse rapide que je viens de tracer, que la piraterie
 occupait singulièrement les esprits dans l'antiquité puisqu'on la
-retrouve même dans les oeuvres littéraires. C'était à un tel point que
+retrouve même dans les œuvres littéraires. C'était à un tel point que
 l'on discutait en philosophie[1] si les navigateurs, au retour d'un
 voyage au long cours, et témoins du départ d'autres voyageurs, ne
 devaient pas s'empresser de les avertir non seulement des tempêtes et
@@ -7026,13 +7019,12 @@ empressement était la conséquence de la bienveillance naturelle qu'on
 ressent pour ceux qui vont à leur tour s'exposer aux dangers auxquels on
 vient d'échapper.
 
-[1] Cicéron, _Pro Murena_, II; Quintilien, V, 11.
+    [1] Cicéron, _Pro Murena_, II; Quintilien, V, 11.
 
                      FIN.
 
 
 TABLE ALPHABÉTIQUE.
-
 
 
 Abdère, ville de Thrace, 89.
@@ -7182,7 +7174,7 @@ Attilius, lieutenant de Pompée, 208.
 
 Atys, roi de Lydie, 80.
 
-Auguste, voir Octave.
+Auguste, _voir_ Octave.
 
 Aulus Posthumius, consul, 158-161.
 
@@ -7326,7 +7318,7 @@ Cornélius (P.), 143.
 
 Cornificius, 234.
 
-Corse (île de), voir Cyrnos.
+Corse (île de), _voir_ Cyrnos.
 
 C. et L. Coruncanius, 155, 156.
 
@@ -7521,7 +7513,7 @@ Himère, ville de Sicile, 127.
 
 Histiée de Milet, 91, 93.
 
-Hyéla, ville d'OEnotrie, 88.
+Hyéla, ville d'Œnotrie, 88.
 
 Hylas, 23.
 
@@ -7600,7 +7592,7 @@ Lissus, ville d'Illyrie, 160, 161.
 
 Lolius, lieutenant de Pompée, 209.
 
-Lucullus, 178-180, 200, 202.
+Lucullus, 178-180, 201, 202.
 
 Lycie, contrée de l'Asie-Mineure, Lyciens, 82, 89, 183, 191, 259, 263.
 
@@ -7686,7 +7678,7 @@ Mithridate, roi de Pont, 173-179, 182.
 
 Mitylène, ville de l'île de Lesbos, 237.
 
-Munychie, un des ports d'Athènes, 98.
+Munychie, un des ports d'Athènes, 99.
 
 Murcus, 224.
 
@@ -7742,7 +7734,7 @@ Octave Auguste, 223-247.
 
 Octavius (L.), 198, 199.
 
-OEnotrie, contrée de l'Italie, 88.
+Œnotrie, contrée de l'Italie, 88.
 
 Olympus, ville de Lycie, 189.
 
@@ -7797,7 +7789,7 @@ Pétillius, 163, 164.
 
 Peucétiens, ppl. de la Calabre, 130.
 
-Phalère, un des ports d'Athènes, 98.
+Phalère, un des ports d'Athènes, 99.
 
 Pharmacuse, île de la mer Égée, 185.
 
@@ -7829,7 +7821,7 @@ Pindenissum, ville de la Cilicie, 215.
 
 Pineus, roi d'Illyrie, 163.
 
-Pirée (le), un des ports d'Athènes, 98.
+Pirée (le), un des ports d'Athènes, 99.
 
 Pisistrate, 65-69.
 
